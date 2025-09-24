@@ -4342,7 +4342,7 @@ int main() {
 
 ---
 
-## 🎯 Final Tips for Success
+## 🎯 Optimize
 
 ### Practice Strategy:
 1. **Day 1-3**: Focus on Arrays and Strings (most common)
@@ -4350,7 +4350,7 @@ int main() {
 3. **Day 7-9**: Learn Linked Lists and Sorting
 4. **Day 10-14**: Mixed practice and mock interviews
 
-### Interview Day Tips:
+### Interview Related:
 1. **Read the problem carefully** - don't rush
 2. **Ask clarifying questions** about edge cases
 3. **Explain your approach** before coding
@@ -4363,10 +4363,4 @@ int main() {
 - **Integer overflow** - use long long when needed
 - **Memory management** - free allocated memory in C
 - **Null pointer checks** - especially for linked lists
-- **Loop conditions** - avoid off-by-one errors
-
-**Good luck with your interviews! Practice these problems daily and you'll definitely improve your problem-solving skills.** 🚀
-
----
-
-*Remember: Consistency is key. Practice 2-3 problems every day and review your mistakes!*
+- **Loop conditions** - avoid off-by-one errors 
