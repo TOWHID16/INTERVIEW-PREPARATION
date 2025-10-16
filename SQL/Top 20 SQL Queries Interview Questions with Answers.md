@@ -14,6 +14,7 @@ SELECT DISTINCT salary
 FROM employees
 ORDER BY salary DESC
 LIMIT 1 OFFSET 1;
+```
 
 ### 2. Find Employees With the Same Manager
 
@@ -26,3 +27,4 @@ FROM employees e1
 JOIN employees e2
 ON e1.manager_id = e2.manager_id
 WHERE e1.employee_id <> e2.employee_id;
+```
